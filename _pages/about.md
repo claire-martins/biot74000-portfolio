@@ -29,15 +29,11 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
-(Honours) program at Conestoga College.
+Hello, I'm Claire Martins, a student in the Bachelor of Applied Biotechnology (Honours) program at Conestoga College. 
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
+My professional interests are focused on food safety, quality assurance, & regulatory science. I am interested in using biological data to better understand microbial behaviour, antimicrobial resistance, and the safety of food, supplements, and nutraceutical products. 
 
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
+Bioinformatics matters to my career goals because it gives me the tools to analze complex biological data, support evidence-based decisions, and connect laboratory findings to real-world food safety and regulatory applications. 
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
